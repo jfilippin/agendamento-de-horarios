@@ -1,5 +1,23 @@
 # form-agendamento-horario
 
+<p>
+<b>Nome do projeto: </b> Formulário de agendamento de horários.
+<b>Integrantes do grupo: </b> Jarod e Jardel.
+<b>Descrição do projeto: </b>
+Este é um formulário de agendamento de horários de uma lavadora de automóveis. O usuário deve preencher todos os 
+campos marcados com * e selecionar um horário entre 7h e 18h de segunda à sexta. Além disso, o intervalo entre 
+agendamentos deve ser de 30 em 30 minutos.
+<b>Tecnologias utilizadas:</b>
+HTML;
+CSS;
+JavaScript;
+Bootstrap 5;
+jQuery 3.1.5;
+jQuery Mask Plugin;
+PHP;
+Apache 2;
+</p>
+
 <h1>Contextualização:</h1>
 <p>Você e seu sócio foram contratados para desenvolver uma aplicação Web para gerenciar o agendamento de horários 
 em uma lavação de automóveis. O proprietário do veículo acessará um formulário na aplicação, onde ele informará o 
