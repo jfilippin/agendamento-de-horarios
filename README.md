@@ -17,6 +17,7 @@ agendamentos deve ser de 30 em 30 minutos.<br>
 <li>jQuery Mask Plugin;</li>
 <li>PHP;</li>
 <li>Apache 2;</li>
+<li>VirtualBox (ubuntu 18.0.4);</li>
 </ul>
 </p>
 
